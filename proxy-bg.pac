@@ -10,7 +10,7 @@ function FindProxyForURL(url, host) {
         "*10.0.32.12*",
         "212.50.20.20*",
         "*10.0.32.22*",
-        "*speedtest.net*",
+        "*beta.speedtest.net*",
         "*icanhazip.com*",
         "*192.168.8.*",
         "*bitrix.info*",
