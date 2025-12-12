@@ -14,6 +14,7 @@ function FindProxyForURL(url, host) {
 	    "*icanhazip.com*",
         "*twilio.com*",
 		"*.nm.gov*",
+		"*.securedach.com*",
         "*sendgrid.com*"
 
     ];
