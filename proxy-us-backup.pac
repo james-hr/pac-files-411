@@ -13,6 +13,7 @@ function FindProxyForURL(url, host) {
 	    "*beta.speedtest.net*",
 	    "*icanhazip.com*",
         "*twilio.com*",
+		"*.nm.gov*",
         "*sendgrid.com*"
 
     ];
